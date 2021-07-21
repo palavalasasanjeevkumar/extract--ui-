@@ -1,0 +1,13 @@
+{
+  "updalodPaylaod":{
+      "id":"uuid",
+      "imagePath" : "path",
+      "fileName":"filename",
+      "fileNameGivenByUser": "",
+      "filesIndexPosition":[0,1,2],
+      "ModifiedFilesIndexPosition":[1,2,0],
+      "modifiedDate":"",
+      "createdDate":"",
+      "clientName": ""
+    }
+  }
